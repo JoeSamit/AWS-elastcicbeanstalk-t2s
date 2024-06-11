@@ -20,7 +20,7 @@ To install node.js follow the sreps belllow:
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 
-# download and install Node.js (you may need to restart the terminal)
+#### download and install Node.js (you may need to restart the terminal)
 
 nvm install 20
 
